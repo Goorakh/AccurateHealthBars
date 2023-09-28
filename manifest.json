@@ -3,7 +3,7 @@
 	"authorName": "Gorakh",
 	"displayName": "Accurate Health Bars",
 	"version_number": "1.0.0",
-	"website_url": "https://github.com/Goorakh/DecimalHealthDisplay",
+	"website_url": "https://github.com/Goorakh/AccurateHealthBars",
 	"description": "Displays the actual health values in health bars instead of a rounded value, clientside",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2100",
