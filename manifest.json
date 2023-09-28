@@ -1,0 +1,13 @@
+﻿{
+	"name": "AccurateHealthBars",
+	"authorName": "Gorakh",
+	"displayName": "Accurate Health Bars",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Goorakh/DecimalHealthDisplay",
+	"description": "Displays the actual health values in health bars instead of a rounded value, clientside",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2100",
+		"RiskofThunder-HookGenPatcher-1.2.1",
+		"RiskofThunder-R2API_Core-5.0.11"
+	]
+}
